@@ -12,11 +12,9 @@ Specifically used as a utily to download magazines from the worldradiohistory.co
 - install the requirements
 ```
 pip install -r requirements.txt
-
 ```
 - adapt the code according to your needs
 - run the code
 ```
 python index.py
-
 ```
